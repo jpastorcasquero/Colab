@@ -1,0 +1,244 @@
+Sistemas Inteligentes 
+Faraón Llorens Largo 
+Moderador 
+Miembro de Aenui 
+Dept. de Ciencia de la Computación e 
+Inteligencia Artificial 
+Universidad de Alicante 
+Faraon.Llorens@ua.es 
+1. Introducción 
+En este documento se presenta un resumen de la 
+ponencia y del posterior debate realizado en la 
+mesa redonda dedicada al tema de “Sistemas 
+Inteligentes: Propuesta de contenidos y técnicas 
+docentes en la titulación de Ingeniería 
+Informática”, celebrada el 12 de septiembre de 
+2007, a las 11:00 h., en el Aula 8 de la Escuela 
+Universitaria de Estudios Sociales de Zaragoza, 
+dentro del II Simposio Nacional de Docencia en 
+Informática (SiNDI), organizado en el marco del 
+II Congreso Español de Informática (CEDI). Esta 
+sesión también formaba parte de las sesiones del 
+II Simposio de Inteligencia Computacional 
+(SICO’2007) organizado por el Capítulo Español 
+de la IEEE Computacional Intelligence Society. 
+El Simposio Nacional de Docencia en 
+Informática es promovido por la Asociación 
+Nacional de Enseñantes Universitarios de 
+Informática, formada por profesores de distintas 
+universidades españolas preocupados por la 
+mejora de la calidad de la enseñanza de las 
+materias relacionadas con la informática, y 
+especialmente en las titulaciones oficiales de 
+Ingeniería Informática. 
+Esta segunda edición del SiNDI se planteó 
+como lugar de reflexión y debate para identificar 
+los contenidos y las mejores técnicas para la 
+enseñanza+aprendizaje de las materias incluidas 
+en los estudios universitarios de Informática, 
+pensando ya en los futuros títulos de grado que se 
+deben diseñar en el marco del Espacio Europeo de 
+Educación Superior (EEES) y siguiendo sus 
+principios. Se ha tomado como marco de 
+referencia el Libro Blanco del Titulo de Grado en 
+Ingeniería Informática elaborado por el proyecto 
+EICE (Estudios de Informática y Convergencia 
+Europea), en el que participaron 56 
+Universidades, y que se enmarcaba en la 
+convocatoria de ayudas para el diseño de planes 
+de estudio y títulos de grado de la Agencia 
+Nacional de Evaluación de la Calidad y 
+Acreditación (ANECA). 
+2. Ponencia 
+A propuesta de la Asociación Española Para la 
+Inteligencia Artificial (AEPIA), presentan la 
+ponencia sobre el tema los profesores Antonio 
+Bahamonde y Vicente Botti. El Dr. Antonio 
+Bahamonde es Catedrático de Universidad de la 
+Universidad de Oviedo, director del Centro de 
+Inteligencia Artificial de dicha Universidad y 
+experto en aprendizaje automático. El Dr. Vicente 
+Botti es Catedrático de Universidad de la 
+Universidad Politécnica de Valencia, ha sido 
+director del Departamento de Sistemas 
+Informáticos y Computación de la UPV y experto 
+en Sistemas Multiagente, Sociedades Artificiales, 
+Sistemas de Tiempo Real, Robótica Movil y 
+Técnicas de Softcomputing. Aunque el texto 
+integro de la ponencia puede encontrarse en este 
+mismo libro de actas, a continuación se presenta 
+un breve resumen de la exposición de la misma. 
+La exposición se estructuró alrededor de dos 
+preguntas a las que se dio respuesta: 
+1.- ¿Tiene sentido que un ingeniero en 
+informática conozca las técnicas de sistemas 
+inteligentes? 
+2.- En caso afirmativo, ¿qué debe enseñarse? 
+Para responder a la primera pregunta, es decir, 
+si se requiere formación en tecnologías de 
+Sistemas Inteligentes en el grado de Ingeniería en 
+Informática, se analizaron cinco ámbitos: 
+• Los sistemas inteligentes en la industria 
+informática actual (navegadores, google, 
+amazon, mystrands, reconocimiento de 
+matrículas en aparcamientos, sistemas de 
+fabricación, robots domésticos, comercio 
+electrónico y compras on-line, sistemas 
+de ayuda a la toma de decisiones en el 
+campo de la salud, telecomunicaciones, 
+…). 
+• Los sistemas inteligentes en el Plan 
+Nacional de Tecnologías Informáticas 
+(TIN), cuya línea prioritaria ha pasado de 
+representar un 16 % de los proyectos 
+concedidos en 2004 a un 42% de los 
+concedidos en 2006 y obteniendo una 
+financiación del 58 % de los euros 
+concedidos. 
+• El 7º Programa Marco de la Unión 
+Europea, en el que existen distintas líneas 
+relacionadas con los sistemas inteligentes 
+• El informe COTEC 2007 
+• Y el programa CONSOLIDER Ingenio 
+2010, con dos proyectos integrados en la 
+línea de Sistemas Inteligentes en el año 
+2007: Interacción Multimodal en 
+Reconocimiento de Formas y Visión 
+Artificial y Tecnologías del Acuerdo 
+A continuación, tras haber argumentado a 
+favor de la formación de los futuros Ingenieros en 
+Informática en las técnicas de los sistemas 
+inteligentes, los ponentes hacen una propuesta de 
+contenidos, apoyándose en los informes de ACM 
+e IEEE de 2005, en particular en el currículo en 
+Computer Science, y en los contenidos en 
+sistemas inteligentes de titulaciones de 
+Informática en distintas universidades de 
+prestigio. En concreto se propone una asignatura 
+de contenidos formativos comunes de 12 créditos 
+europeos, que abordará los siguientes aspectos: 
+• Presentación de la asignatura (5%) 
+• Representación del Conocimiento. 
+Resolución de Problemas (10%) 
+• Razonamiento: Lógica. Razonamiento 
+incierto (10%) 
+• Planificación (10%) 
+• Búsqueda (10%) 
+• Aprendizaje Automático (15%) 
+• Agentes: Conceptos y Arquitecturas. 
+Filtros colaborativos (15%) 
+• Aplicaciones: Lenguaje natural (incluye 
+web). Percepción (incluye visión). La 
+aplicación de referencia en la 
+Universidad correspondiente (25%) 
+Adicionalmente se expusieron una serie de 
+consideraciones didácticas a tener en cuenta al 
+diseñar la asignatura de sistemas inteligentes: 
+• Aproximar los estudios universitarios al 
+ejercicio profesional. 
+• Mayor protagonismo del estudiante en su 
+formación. 
+• Fomentar el trabajo colaborativo 
+• Organizar la enseñanza en función de las 
+competencias 
+• Potenciar la adquisición de herramientas 
+de aprendizaje autónomo y permanente 
+• Uso de metodologías activas 
+• Redefinición profunda de planes de 
+estudio con objetivos acordes con el 
+entorno socioeconómico y con las 
+enseñanzas preuniversitarias. 
+Finalmente se propusieron distintas materias 
+discrecionales a elegir por las universidades 
+(Almacenes y Minería de Datos, Aprendizaje 
+Automático, Lingüística Computacional, 
+Reconocimiento de Formas, Métodos Basados en 
+Núcleos, Sistemas Multiagente, Técnicas de 
+Búsqueda Inteligente y tema en los que tenga 
+experiencia la propia Universidad) y una 
+propuesta de materias de master en Sistemas 
+Inteligentes (Agentes de Información y Web 
+Semántica, Extracción del Conocimiento, 
+Ingeniería del Conocimiento, Ingeniería de 
+Sistemas Multiagente, Métodos Estadísticos en 
+Tecnologías del Lenguaje, Planificación, 
+Scheduling y Robótica, Reconocimiento 
+Automático del Habla, Reconocimiento de 
+Escritura e Imágenes, Sistemas de Visión y 
+Técnicas de Planificación en Inteligencia 
+Artificial). 
+La presentación permitió a los asistentes 
+hacerse una idea de la propuesta de los ponentes, 
+que se encuentra detallada en su ponencia, y de 
+esta forma se dio paso al debate. 
+3. Debate 
+Tras la presentación de las ideas básicas de la 
+ponencia por parte de los autores, se procedió a un 
+breve debate entre ponentes, moderador y resto de 
+asistentes. 
+Dicho debate se centró, fundamentalmente, en 
+los siguientes aspectos: 
+• Los recursos docentes existentes: 
+prototipos, bibliografía, repositorios, ... 
+• Cómo conseguir un aprendizaje activo y 
+centrado en prácticas: uso, modificación 
+y mejora de los prototipos que se ponen a 
+disposición de los estudiantes. 
+• Hacer atractivos los títulos y las materias: 
+venta de la misma, cercanía a la 
+industria, … 
+• La formación previa que se necesita para 
+abordar con éxito la materia de sistemas 
+inteligentes, ya que se requiere cierta 
+madurez abstracta (lógica, matemáticas, 
+…) y conocimientos técnicos 
+(programación, estructuras de datos, …). 
+• Competencias que el estudiante debería 
+adquirir al cursar esta materia: 
+o que sepan sintetizar 
+conocimientos en los sistemas 
+que desarrollen: crear 
+conocimiento y usarlo 
+o que sepan resolver problemas 
+en un espacio de búsqueda 
+o que conozcan técnicas básicas 
+de aprendizaje 
+4. Conclusiones 
+La formación en sistemas inteligentes es necesaria 
+y está justificada en el grado en Ingeniería 
+Informática. Y su contenido debe derivarse del 
+análisis y reflexión, tanto sobre la aplicación en la 
+actual industria informática, como sobre las líneas 
+punteras de investigación que serán el motor de la 
+industria informática futura. 
+ Los autores de la ponencia han expuesto una 
+argumentación clara y contundente sobre la 
+conveniencia de formar a los futuros profesionales 
+de la informática en los conocimientos y técnicas 
+de los sistemas inteligentes, que permitirán dar a 
+los productos desarrollados por ellos una ventaja 
+competitiva. Por tanto, la respuesta a la pregunta 
+primera planteada sobre si tiene sentido que un 
+ingeniero en informática conozca las técnicas de 
+sistemas inteligentes es claramente afirmativa. 
+ En este contexto, la respuesta a la segunda 
+pregunta sobre qué debe enseñarse, la propuesta, 
+fundamentada, tanto en aspectos académicos 
+como investigadores y de transferencia a la 
+industria, plantea unos contenidos comunes a 
+todos los ingenieros en informática, 
+complementados por cada universidad en función 
+de sus características, así como una 
+especialización a nivel de master. 
+ Nuestro objetivo es que este trabajo sirva 
+como punto de partida para el debate. Y que en el 
+diseño del nuevo grado en informática se tengan 
+en cuenta tanto las competencias relacionadas con 
+el diseño e implementación de sistemas 
+inteligentes como las estrategias docentes 
+adecuadas para adquirirlas. No pretende dar 
+directrices cerradas sino más bien abrir la 
+discusión e incitar a la reflexión. 
+Asistentes 
+La lista de asistentes al debate puede encontrarse 
+en la introducción de estas actas.
